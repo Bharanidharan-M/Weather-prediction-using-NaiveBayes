@@ -1,1 +1,1 @@
-# Weather_prediction-Naive-Bayes
+# Weather prediction using NaiveBayes

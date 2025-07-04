@@ -86,13 +86,3 @@ y_pred = model.predict(x_test)
 print("Accuracy:", accuracy_score(y_test, y_pred))
 print("Confusion_matrix:", confusion_matrix(y_test, y_pred))
 ```
-
-## 📎 References
-
-- [Bureau of Meteorology (Australia) dataset](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package)
-- [Scikit-learn Naive Bayes](https://scikit-learn.org/stable/modules/naive_bayes.html)
-
----
-
-✅ *Tip:* View this notebook on [nbviewer](https://nbviewer.org/) for better rendering of outputs on GitHub.
-
